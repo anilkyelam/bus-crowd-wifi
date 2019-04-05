@@ -1,2 +1,2 @@
 # BusCrowdEstimation
-Feasibility study of crowd estimation on public transit based on wireless traffic
+Feasibility study on crowd estimation in public transit buses based on wireless traffic
